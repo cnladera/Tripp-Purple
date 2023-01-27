@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Scenes/TK Scavenger Hunt.unity
+- path: Assets/Scenes/TK Scavenger Hunt Scene.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
